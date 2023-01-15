@@ -5,11 +5,18 @@
 Состав программы:
   * Классы:
    1 Players
+   
    2 Base
+   
    3 Ring
+   
    4 Score
+   
    5 Button 
+   
    6 DistanceSelector
+   
    7 ScoreSaver
+   
   * Создание пересенных, работа со стартовым экраном
   * Главный игровой цикл
